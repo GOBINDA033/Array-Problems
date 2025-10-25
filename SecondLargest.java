@@ -2,7 +2,7 @@
 public class SecondLargest{
     public static void main(String args[])
     {
-int arr[]={1,6,3,2,7,7,5};
+int arr[]={1,6,3,2,7,7,8,10};
 int largest=arr[0];
 int SecondLargest=-1;
 for(int i=0;i<arr.length;i++)
